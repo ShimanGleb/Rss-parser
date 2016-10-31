@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>c:\PracticeProject\RSSParser\RSSParser\obj\Debug\__library_projects__\AndroidSwipeLayout\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>c:\PracticeProject\RSSParser\RSSParser\obj\Debug\__library_projects__\SQLitePCL.batteries\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>c:\PracticeProject\RSSParser\RSSParser\obj\Debug\__library_projects__\SQLitePCL.raw\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>c:\PracticeProject\RSSParser\RSSParser\obj\Debug\__library_projects__\SQLitePCLPlugin_esqlite3\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>c:\PracticeProject\RSSParser\RSSParser\obj\Debug\__library_projects__\AndroidSwipeLayout\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>c:\PracticeProject\RSSParser\RSSParser\obj\Debug\__library_projects__\SQLitePCL.batteries\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>c:\PracticeProject\RSSParser\RSSParser\obj\Debug\__library_projects__\SQLitePCL.raw\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>c:\PracticeProject\RSSParser\RSSParser\obj\Debug\__library_projects__\SQLitePCLPlugin_esqlite3\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>c:\PracticeProject\RSSParser\RSSParser\obj\Debug\__library_projects__\AndroidSwipeLayout.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>c:\PracticeProject\RSSParser\RSSParser\obj\Debug\__library_projects__\SQLitePCL.batteries.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>c:\PracticeProject\RSSParser\RSSParser\obj\Debug\__library_projects__\SQLitePCL.raw.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>c:\PracticeProject\RSSParser\RSSParser\obj\Debug\__library_projects__\SQLitePCLPlugin_esqlite3.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

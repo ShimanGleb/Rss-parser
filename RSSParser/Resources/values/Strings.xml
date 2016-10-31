@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="addToFavorite">Add to favorite</string>
+    <string name="removeFromFavorite">Remove from favorite</string>
+  <string name="showFavorite">Show favorite</string>
+</resources>
